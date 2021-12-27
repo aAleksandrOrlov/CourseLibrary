@@ -1,4 +1,4 @@
-# #CourseLibrary
+# CourseLibrary
 ---
 A JavaScript library.
 
